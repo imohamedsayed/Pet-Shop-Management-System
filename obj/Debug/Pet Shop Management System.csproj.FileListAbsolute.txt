@@ -1,0 +1,56 @@
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CopyComplete
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.licenses
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.loginfrm.resources
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.splash.resources
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.homes.resources
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.employees.resources
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.customers.resources
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.products.resources
+C:\Users\Dell\Desktop\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.billing.resources
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\PetShopDB.mdf
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\PetShopDB_log.ldf
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Dell\Desktop\Pet Shop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.AssemblyReference.cache
+E:\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.SuggestedBindingRedirects.cache
+E:\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.billing.resources
+E:\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.customers.resources
+E:\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.employees.resources
+E:\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.homes.resources
+E:\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.loginfrm.resources
+E:\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.products.resources
+E:\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.splash.resources
+E:\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+E:\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.GenerateResource.cache
+E:\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.licenses
+E:\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+E:\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.billing.resources
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.customers.resources
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.employees.resources
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.homes.resources
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.loginfrm.resources
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.products.resources
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.splash.resources
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.licenses
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+C:\Users\Dell\Desktop\My Projects\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
